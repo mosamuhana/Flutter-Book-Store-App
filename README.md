@@ -1,6 +1,6 @@
 # Flutter Book Store App
 
-A Flutter UI Book Store App.
+A Simple Flutter Book Store App UI.
 
 | 1 | 2|
 |------|-------|
